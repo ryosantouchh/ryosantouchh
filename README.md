@@ -4,10 +4,10 @@ Hi 👋 My name is Kittitat Suntimak
 Software Developer | Muaythai Guy
 ------------------
 
-I'm a former physiotherapist who have enthusiasm in tech and software engineering. After my career switching, I found myself have a crush on software development everyday. I have been work with React.js as a frontend developer since Mid-June 2023.
+I'm a former physiotherapist who have enthusiasm in tech and software engineering. After my career switching, I found myself have a crush on software development everyday.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Golang, Design Pattern, Server-Side-Rendering, Discrete Math
+* 🧠  I'm learning Go, Mathematics
 * ⚡  Currently, Learning Muaythai
 
 ### Skills
