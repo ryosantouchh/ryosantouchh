@@ -6,8 +6,19 @@ Backend Engineer
 
 I'm a former physiotherapist who have enthusiasm in tech and software engineering. After my career switching, I found myself have a crush on software development everyday.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Go, System Design
+- 🔭 I’m currently working on **Comprehensive Healthcare System**
+
+- 🌱 I’m currently learning **Go, System Design, K8S**
+
+- 📝 I regularly write articles on [https://touchkittitat.medium.com/](https://touchkittitat.medium.com/)
+
+- 💬 Ask me about **NestJS, Database Design**
+
+- 📫 How to reach me **kittitat.suntimak@gmail.com**
+
+- ⚡ Fact/Me **Into Martial Arts World**
+
+---
 
 ### Skills
 
