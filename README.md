@@ -1,7 +1,7 @@
 Hi 👋 My name is Kittitat Suntimak
 ==================================
 
-Backend Engineer
+Software Craftsman
 ------------------
 
 I'm a former physiotherapist who have enthusiasm in tech and software engineering. After my career switching, I found myself have a crush on software development everyday.
