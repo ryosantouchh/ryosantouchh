@@ -4,19 +4,15 @@ Hi 👋 My name is Kittitat Suntimak
 Software Craftsman
 ------------------
 
-I'm a former physiotherapist who have enthusiasm in tech and software engineering. After my career switching, I found myself have a crush on software development everyday.
+🌟 About Me
+I'm a former physiotherapist who transitioned into tech and fell in love with software development. Every day, I find joy in crafting elegant solutions to complex problems. My focus is now shifting toward building impactful business software while exploring the power of Rust to elevate my skillset.
 
-- 🔭 I’m currently working on **Comprehensive Healthcare System**
-
-- 🌱 I’m currently learning **Go, System Design, K8S**
-
-- 📝 I regularly write articles on [https://touchkittitat.medium.com/](https://touchkittitat.medium.com/)
-
-- 💬 Ask me about **NestJS, Database Design**
-
-- 📫 How to reach me **kittitat.suntimak@gmail.com**
-
-- ⚡ Fact/Me **Into Martial Arts World**
+- 🔭 Currently Working On: One Stop Service Digital Marketing and Software Solution Platform
+- 🌱 Learning Journey: Go, Kubernetes, System Design, and Rust
+- 📝 Sharing Knowledge: Check out my articles
+- 💬 Let's Talk About: NestJS, Database Design, and Software Architecture
+- 📫 Contact Me: kittitat.suntimak@gmail.com
+- ⚡ Fun Fact: I’m into martial arts – discipline meets passion!
 
 ---
 
