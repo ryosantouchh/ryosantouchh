@@ -8,9 +8,9 @@ Software Craftsman
 I'm a former physiotherapist who transitioned into tech and fell in love with software development. Every day, I find joy in crafting elegant solutions to complex problems. My focus is now shifting toward building impactful business software while exploring the power of Rust to elevate my skillset.
 
 - 🔭 Currently Working On: One Stop Service Digital Marketing and Software Solution Platform
-- 🌱 Learning Journey: Go, Kubernetes, System Design, and Rust
+- 🌱 Learning Journey: Software Architecture, Rust, Microservices and System Design
 - 📝 Sharing Knowledge: Check out my articles
-- 💬 Let's Talk About: NestJS, Database Design, and Software Architecture
+- 💬 Let's Talk About: Business and Software Development
 - 📫 Contact Me: kittitat.suntimak@gmail.com
 - ⚡ Fun Fact: I’m into martial arts – discipline meets passion!
 
